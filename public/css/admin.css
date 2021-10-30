@@ -1,0 +1,57 @@
+.nav-link{
+    color: #c0bebe;
+}
+
+.nav-link:hover{
+    color: white;
+}
+
+.nav-link.active{
+    color: #fff;
+    font-weight: bold;
+}
+.container{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+#summarytable{
+    width: 60%;
+}
+
+#addhospital{
+    padding: 0px 20%;
+}
+
+form button{
+    width: 100%;
+}
+
+.input1{
+    width: 50px;
+}
+
+.input2{
+    width: 100px;
+}
+
+#hospitaltable{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+
+
+.admin-div{
+    height: 100vh;
+    width: 100vw;
+    padding: 10% 39%;
+}
+
+.admin-div .card{
+    border-radius: 15px;
+}
+
+.admin-div button{
+    width: 100%;
+}

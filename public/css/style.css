@@ -1,0 +1,52 @@
+nav.navbar{
+    height: 80px;
+    width: 100%;
+    z-index: 99;
+    position: fixed;
+    top: 0;
+}
+.main{
+    height: 100vh;
+    width: 100%;
+    padding: 15% 10%;
+    background-image: url("images/covid.svg");
+}
+.main .card{
+    width: 400px;
+}
+
+.main button{
+    width: 100%;
+}
+.main .covidimage{
+    width: 900px;
+    position: fixed;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.main .covidimage2{
+    width: 250px;
+    position: fixed;
+    margin-left: 43%;
+    margin-top: 2%;
+}
+
+
+
+/*  DASHBOARD   */
+
+nav ul{
+    list-style-type: none;
+}
+
+.main-content{
+    margin-top: 90px;
+    padding: 0px 10% 0px 10%;
+}
+
+.main-content button{
+    width: 100%;
+}
+.table-summary{
+    width: 50%;
+}
